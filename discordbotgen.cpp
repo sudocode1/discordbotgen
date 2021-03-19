@@ -1,4 +1,3 @@
-// discordbotgen.cpp : This file contains the 'main' function.
 #include <iostream>
 #include <string>
 #include <fstream>
